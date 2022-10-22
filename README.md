@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Rodrigoo14/Rodrigoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cout << "Hi! I'm Rodrigo, and I like ..." << endl;
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+System.out.println("Hello my name is Rodrigo, and I like ...");
+
+print("Hi! I'm Rodrigo, and I like ...")
+
+<body>
+<p> Hi! my name is Rodrigo, and I don't like ... <br></p>
+</body>
+
+<?php echo '<p>Hi my name is Rodrigo, and I like ...</p>'; ?>
