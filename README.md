@@ -62,10 +62,13 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrabro&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&hide_border=true" align="left" style="width: 100%" />
+<img src="https://streak-stats.demolab.com/?user=Rodrigoo14&theme=radical&hide_border=true" style="width: 100%" />
 
 </td></tr></table>
+
+### 🚀 Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoo14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
